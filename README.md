@@ -9,3 +9,5 @@ send message from aliyun:  1. devices, 2. view(action), 3. Topic List 4, public
 2-18 \\
 1,remember EN is no need to be connected(try to unplug it when syn does no work when downloading the firmware
 2,when in working mode, should shortly plug in RST in GND so esp8266 will start working
+3,stricly follow the configurations for sending command, AT+ MQTTCONN got error because of previous one AT + MQTTCLIENTID configurations error. now
+  it changed correctly, the problem solved, now iot works!
