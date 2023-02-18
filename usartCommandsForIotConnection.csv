@@ -1,0 +1,11 @@
+—°‘Ò,÷∏¡Ó,√Ë ˆ
+True,AT+RST,
+False,AT+CWMODE=1,
+False,"AT+CIPSNTPCFG=1,8,""ntp1.aliyun.com""",
+False,"AT+CWJAP=""whatever"",""youlike!!""",
+False,"AT+MQTTUSERCFG=0,1,""NULL"",""ttcan&a5ZLiiHWg1j"",""0ff52717e4fe45d92a9c6f11234d1d123a574e50f9b2e84642c1a0e7d415522b"",0,0,""""",
+False,"AT+MQTTCLIENTID=0,""a5ZLiiHWg1j.ttcan|securemode=2\,signmethod=hmacsha256\,timestamp=1676687037657|""",
+False,"AT+MQTTCONN=0,""a5ZLiiHWg1j.iot-as-mqtt.eu-central-1.aliyuncs.com"",1883,1",
+False,"AT+MQTTSUB=0,""/a5ZLiiHWg1j/TTCAN_esp8266_test/user/get"",1",
+False,,
+False,,
