@@ -6,5 +6,5 @@
 upload the flashuploading tool and download the firmware to esp8266-01s //
 send message from aliyun:  1. devices, 2. view(action), 3. Topic List 4, public
 
-2-18
-remember en is no need to be connected
+2-18 //
+remember en is no need to be connected(try to unplug it when syn does no work)
