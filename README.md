@@ -3,4 +3,5 @@
 2.!!! the reference book, can follow from P26, it finally works with the 1 status.
 
 23.2.17
-upload the flashuploading tool and download the firmware to esp8266-01s
+upload the flashuploading tool and download the firmware to esp8266-01s //
+send message from aliyun:  1. devices, 2. view(action), 3. Topic List 4, public
